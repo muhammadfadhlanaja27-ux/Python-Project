@@ -1,5 +1,5 @@
 #KALKULATOR SEDERHANA
-'''
+    
 def tambah(x, y):
     return x + y
 def kurang(x, y):
@@ -31,8 +31,9 @@ elif choice =='5':
     print(num1,"%",num2,"=", modulus(num1,num2))    
 else:
     print("Input Salah")
-'''
 
+
+'''
 #Tebak Tebakan
 import random
 angka = random.randint(1, 1000)
@@ -47,3 +48,4 @@ while tebakan != angka:
         print("Tebakan Terlalu Tinggi")
     else:
         print("Selamat, Tebakan Anda Benar!")
+'''
